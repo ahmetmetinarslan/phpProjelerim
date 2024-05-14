@@ -4,7 +4,7 @@ Bu repo, PHP öğrenme sürecimde oluşturduğum projeleri ve kod örneklerini i
 
 ## İçindekiler
 
-  [Kullanıcı Girişi](#kullanıcı-girişi)
+  [Kullanıcı Girişi](#kullanıcı-girişi) | 
   [CRUD İşlemleri](#crud-işlemleri)
 
 ## Projeler
