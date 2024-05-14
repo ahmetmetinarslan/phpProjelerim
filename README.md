@@ -5,7 +5,9 @@ Bu repo, PHP öğrenme sürecimde oluşturduğum projeleri ve kod örneklerini i
 ## İçindekiler
 
   [Kullanıcı Girişi](#kullanıcı-girişi) | 
-  [CRUD İşlemleri](#crud-işlemleri)
+  [CRUD İşlemleri](#crud-işlemleri) | 
+  [Rastgele Şifre Oluşturucu](#kullanıcı-girişi) 
+  
 
 ## Projeler
 
@@ -15,5 +17,7 @@ Basit bir kullanıcı girişi uygulaması. Kullanıcı adı ve şifre kontrolü 
 ### CRUD İşlemleri
 Veritabanı üzerinde Create, Read, Update ve Delete (CRUD) işlemlerini gerçekleştiren bir örnek proje.
 
+### Rastgele Şifre Oluşturucu
+8 karakter ile 20 karakter arasında rastgele şifre oluşuturan bir proje.
 
 
