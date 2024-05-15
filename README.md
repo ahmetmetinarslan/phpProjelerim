@@ -20,4 +20,7 @@ Veritabanı üzerinde Create, Read, Update ve Delete (CRUD) işlemlerini gerçek
 ### Rastgele Şifre Oluşturucu
 8 karakter ile 20 karakter arasında rastgele şifre oluşuturan bir proje.
 
+### Yaş Hesaplayıcı
+Girilen tarih üzerinden yaş hesaplar.
+
 
