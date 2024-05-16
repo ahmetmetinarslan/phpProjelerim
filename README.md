@@ -6,9 +6,9 @@ Bu repo, PHP öğrenme sürecimde oluşturduğum projeleri ve kod örneklerini i
 
   [Kullanıcı Girişi](#kullanıcı-girişi) | 
   [CRUD İşlemleri](#crud-işlemleri) | 
-  [Rastgele Şifre Oluşturucu](#kullanıcı-girişi) 
-  [Yaş Hesaplayıcı](#yas-hesaplayıcı) 
-  [phpWebsite](#phpWebsite) 
+  [Rastgele Şifre Oluşturucu](#kullanıcı-girişi) |
+  [Yaş Hesaplayıcı](#yas-hesaplayıcı) |
+  [PHP Website](#phpWebsite) |
   
 
 ## Projeler
