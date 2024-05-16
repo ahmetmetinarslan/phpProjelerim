@@ -7,6 +7,8 @@ Bu repo, PHP öğrenme sürecimde oluşturduğum projeleri ve kod örneklerini i
   [Kullanıcı Girişi](#kullanıcı-girişi) | 
   [CRUD İşlemleri](#crud-işlemleri) | 
   [Rastgele Şifre Oluşturucu](#kullanıcı-girişi) 
+  [Yaş Hesaplayıcı](#yas-hesaplayıcı) 
+  [phpWebsite](#phpWebsite) 
   
 
 ## Projeler
@@ -22,5 +24,8 @@ Veritabanı üzerinde Create, Read, Update ve Delete (CRUD) işlemlerini gerçek
 
 ### Yaş Hesaplayıcı
 Girilen tarih üzerinden yaş hesaplar.
+
+### phpWebsite
+Anasayfada bulunan form yapısı üzerinden girilen verileri database gönderme işlemi gerçekleştirilir. Databasedeki verileri admin panel üzerinden görntülenir. Adim panele giriş sayfası vardır. Belirlenmiş bir kullanıcı adı ve şifre istenmektedir.
 
 
