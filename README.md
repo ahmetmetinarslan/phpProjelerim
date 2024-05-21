@@ -18,7 +18,7 @@ Bu repo, PHP öğrenme sürecimde oluşturduğum projeleri ve kod örneklerini i
 Basit bir kullanıcı girişi uygulaması. Kullanıcı adı ve şifre kontrolü yaparak giriş işlemi gerçekleştirilir.
 
 ### CRUD İşlemleri
-Veritabanı üzerinde Create, Read, Update ve Delete (CRUD) işlemlerini gerçekleştiren bir örnek proje.
+Veritabanı üzerinde Create, Read, Update ve Delete (CRUD) işlemlerini gerçekleştiren örnek bir proje.
 
 ### Rastgele Şifre Oluşturucu
 8 karakter ile 20 karakter arasında rastgele şifre oluşuturan bir proje.
