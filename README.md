@@ -9,6 +9,7 @@ Bu repo, PHP öğrenme sürecimde oluşturduğum projeleri ve kod örneklerini i
   [Rastgele Şifre Oluşturucu](#kullanıcı-girişi) |
   [Yaş Hesaplayıcı](#yas-hesaplayıcı) |
   [PHP Website](#phpWebsite) |
+  [PHP Captcha](#phpCaptcha) |
   
 
 ## Projeler
@@ -27,5 +28,16 @@ Girilen tarih üzerinden yaş hesaplar.
 
 ### phpWebsite
 Anasayfada bulunan form yapısı üzerinden girilen verileri database gönderme işlemi gerçekleştirilir. Databasedeki verileri admin panel üzerinden görüntülenir. Adim panele giriş sayfası vardır. Belirlenmiş bir kullanıcı adı ve şifre istenmektedir.
+
+### phpCaptcha
+Bu proje, bir CAPTCHA doğrulama sistemi oluşturur. Kullanıcıdan CAPTCHA kodunu girmesini ister ve bu kodu oturumda saklanan doğru kod ile karşılaştırarak doğruluğunu kontrol eder. Bu sayede, formun bir bot tarafından değil, gerçek bir kullanıcı tarafından doldurulduğundan emin olunur.
+
+
+
+
+
+
+
+
 
 
